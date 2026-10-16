@@ -1,0 +1,6 @@
+{
+  "name": "The Good Life Barbershop Forestville",
+  "description": "Master Barber and Cosmetologist in Forestville, CA. Premium grooming and advanced hair restoration for Men, Women, & Kids in West Sonoma County.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
